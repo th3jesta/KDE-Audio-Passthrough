@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "developer@example.com",
+                "Name": "Audio Pass-Through Widget Developer"
+            }
+        ],
+        "Category": "Multimedia",
+        "Description": "Toggle audio pass-through from input devices to output devices with real-time monitoring capabilities",
+        "Icon": "audio-input-microphone",
+        "Id": "org.kde.plasma.audiopassthrough",
+        "Name": "Audio Pass-Through",
+        "Version": "1.0.0",
+        "Website": "https://github.com/kde/plasma-audio-passthrough",
+        "BugReportUrl": "https://github.com/kde/plasma-audio-passthrough/issues"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "KPackageStructure": "Plasma/Applet"
+} 
