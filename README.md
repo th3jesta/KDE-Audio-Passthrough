@@ -2,6 +2,8 @@
 
 A Plasma 6 widget that lets you route live audio from any available input device to any output device with a single click. Perfect for quick monitoring, ad-hoc routing, and accessibility scenarios.
 
+![Configuration dialog showing device selection, debug info, and sizing controls](./kde-audio-passtrhough-screenshot.png)
+
 ## Key Features
 - Toggle pass-through instantly from your panel
 - Keep your preferred input/output devices persistent across sessions
